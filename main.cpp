@@ -39,6 +39,7 @@ int main(int argc, char** argv) {
 
     insertion_sort(tab, 5);
     printArray(tab, 5);
+    cout<<"Hello git!"<<endl;
     return 0;
 }
 
